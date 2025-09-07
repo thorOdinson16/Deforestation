@@ -38,7 +38,7 @@ Fire Type Classifier is a machine learning-powered application that predicts fir
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fire-type-classifier.git
+   git clone https://github.com/thorOdinson16/FireTypeClassifier.git
    ```
 2. Navigate to the project directory:
    ```bash

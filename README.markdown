@@ -1,4 +1,4 @@
-# Fire Type Classifier: AI-Driven Fire Detection from MODIS Data
+# Fire Type Classifier: AI-Driven Fire Detection from MODIS Dataset
 
 ## Overview
 
@@ -47,10 +47,6 @@ Fire Type Classifier is a machine learning-powered application that predicts fir
 3. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn streamlit joblib
-   ```
-   Alternatively, create a `requirements.txt` with the above packages and run:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ### Data Requirements
